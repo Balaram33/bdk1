@@ -9,3 +9,4 @@ In this folder, there are input files (excel), code (python), and output files (
      The code (temporal_limit_dotted.ipynb) will help to get the matrix plot of temporal scale limit under different climate change scenarios. The input file (temporal_limit.xlsx) can be used to get the output figure (PRB_temporal_limits_dots.jpeg).
 
 How to cite:
+doi: 10.5281/zenodo.16442916.
